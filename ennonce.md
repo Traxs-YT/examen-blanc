@@ -1,4 +1,5 @@
-## Ennoncé de l'examen
+Notice: Array to string conversion in D:\Cours\www\index.php on line 4
+Array## Ennoncé de l'examen
 
 ### Consignes
 
